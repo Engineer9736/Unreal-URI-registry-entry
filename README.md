@@ -4,7 +4,7 @@
 Put in a .reg file, adjust the paths, and run.
 
 
-`
+
 Windows Registry Editor Version 5.00
 
 [HKEY_CLASSES_ROOT\unreal]
@@ -18,4 +18,3 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\unreal\shell\open\command]
 @="\"D:\\documenten\\Games\\UnrealTournament\\System\\UnrealTournament.exe\" \"%1\""
 "Executable"="D:\\documenten\\Games\\UnrealTournament\\System\\UnrealTournament.exe"
-`
